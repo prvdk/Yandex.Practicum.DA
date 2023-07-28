@@ -1,6 +1,10 @@
 
 # Банки — Анализ оттока клиентов
 
+**`Nbviewer:`** 
+
+[![nbviewer](https://img.shields.io/badge/VIEW-nbviewer-orange)](https://nbviewer.org/github/prvdk/Yandex.Practicum.DA/blob/main/13_final_project/Final_projest/Основной%20проект.ipynb)
+
 ### Задача
 
 Проанализируйте клиентов регионального банка и выделите сегменты клиентов, которые склонны уходить из банка.
