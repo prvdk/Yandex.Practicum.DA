@@ -4,7 +4,7 @@
 
 **`Nbviewer:`** 
 
-[![nbviewer](https://img.shields.io/badge/VIEW-nbviewer-orange)](https://nbviewer.org/github/niksmns/data_analyst_yandex_practicum/blob/main/online_store_research/00c108db-5b4e-45f2-968d-662940df1240.ipynb)
+[![nbviewer](https://img.shields.io/badge/VIEW-nbviewer-orange)](https://nbviewer.org/github/prvdk/Yandex.Practicum.DA/blob/main/9_testing_hypotheses_to_increase_revenue_in_the_online_shop/9.%20Проверка%20гипотез%20по%20увеличению%20выручки%20в%20интернет-магазине.ipynb)
 
 **`Предоставленные данные:`**
 

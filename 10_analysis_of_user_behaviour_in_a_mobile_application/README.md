@@ -4,7 +4,7 @@
 
 **`Nbviewer:`** 
 
-[![nbviewer](https://img.shields.io/badge/VIEW-nbviewer-orange)](https://nbviewer.org/github/niksmns/data_analyst_yandex_practicum/blob/main/user_behavior_in_a_food_app/0a8222a9-722b-44b4-ba68-40dd87feb423.ipynb)
+[![nbviewer](https://img.shields.io/badge/VIEW-nbviewer-orange)](https://nbviewer.org/github/prvdk/Yandex.Practicum.DA/blob/main/10_analysis_of_user_behaviour_in_a_mobile_application/10.%20Анализ%20пользовательского%20поведения%20в%20мобильном%20приложении.ipynb)
 
 **`Предоставленные данные:`**
 
