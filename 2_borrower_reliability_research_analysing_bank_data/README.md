@@ -7,7 +7,7 @@
 
 [![nbviewer Часть 1](https://img.shields.io/badge/VIEW-nbviewer-orange)](https://nbviewer.org/github/prvdk/Yandex.Practicum.DA/blob/main/2_borrower_reliability_research_analysing_bank_data/2.%20Исследование%20надёжности%20заёмщиков%20—%20анализ%20банковских%20данных%28%20часть%201%29.ipynb)
 
-[![nbviewer Часть 2](https://img.shields.io/badge/VIEW-nbviewer-orange)](https://nbviewer.org/github/prvdk/Yandex.Practicum.DA/blob/main/2_borrower_reliability_research_analysing_bank_data/2.%20Исследование%20надёжности%20заёмщиков%20—%20анализ%20банковских%20данных%28%20часть%201%29.ipynb)
+[![nbviewer Часть 2](https://img.shields.io/badge/VIEW-nbviewer-orange)](https://nbviewer.org/github/prvdk/Yandex.Practicum.DA/blob/main/2_borrower_reliability_research_analysing_bank_data/2.%20Исследование%20надёжности%20заёмщиков%20—%20анализ%20банковских%20данных%28часть%202%29.ipynb)
 
 
 
