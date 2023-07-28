@@ -4,7 +4,7 @@
 
 **`Nbviewer:`** 
 
-[![nbviewer](https://img.shields.io/badge/VIEW-nbviewer-orange)](https://nbviewer.org/github/niksmns/data_analyst_yandex_practicum/blob/main/research_of_apartments_for_sale_ads/research_of_apartments_for_sale_ads.ipynb)
+[![nbviewer](https://img.shields.io/badge/VIEW-nbviewer-orange)](https://nbviewer.org/github/prvdk/Yandex.Practicum.DA/blob/main/3_property_market_analysis/3.%20Продажа%20квартир%20в%20Санкт-Петербурге%20—%20анализ%20рынка%20недвижимости.ipynb)
 
 **`Предоставленные данные:`**
 
