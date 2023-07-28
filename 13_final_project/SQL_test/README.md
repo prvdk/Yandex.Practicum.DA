@@ -8,7 +8,7 @@
 
 **`Nbviewer:`** 
 
-[![nbviewer](https://img.shields.io/badge/VIEW-nbviewer-orange)](https://nbviewer.org/github/niksmns/data_analyst_yandex_practicum/blob/main/final_projects/sql/analysis_sql.ipynb)
+[![nbviewer](https://nbviewer.org/github/prvdk/Yandex.Practicum.DA/blob/main/13_final_project/SQL_test/Проект%20по%20SQL.ipynb)
 
 **`Предоставленные данные:`**
 
