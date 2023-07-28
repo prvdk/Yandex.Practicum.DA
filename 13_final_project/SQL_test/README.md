@@ -8,7 +8,7 @@
 
 **`Nbviewer:`** 
 
-[![nbviewer](https://nbviewer.org/github/prvdk/Yandex.Practicum.DA/blob/main/13_final_project/SQL_test/Проект%20по%20SQL.ipynb)
+[![nbviewer](https://nbviewer.org/github/niksmns/data_analyst_yandex_practicum/blob/main/final_projects/cosmobrother/8671d3bf-143f-48e9-b84f-c23639b8d119.ipynb)
 
 **`Предоставленные данные:`**
 
