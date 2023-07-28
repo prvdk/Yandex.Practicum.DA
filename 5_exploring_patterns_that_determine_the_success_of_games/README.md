@@ -4,7 +4,7 @@
 
 **`Nbviewer:`** 
 
-[![nbviewer](https://img.shields.io/badge/VIEW-nbviewer-orange)](https://nbviewer.org/github/niksmns/data_analyst_yandex_practicum/blob/main/video_game_market_research/video_game_market_research.ipynb)
+[![nbviewer](https://img.shields.io/badge/VIEW-nbviewer-orange)](https://nbviewer.org/github/prvdk/Yandex.Practicum.DA/blob/main/5_exploring_patterns_that_determine_the_success_of_games/5.%20Изучение%20закономерностей%2C%20определяющих%20успешность%20игр.ipynb)
 
 **`Предоставленные данные:`**
 
