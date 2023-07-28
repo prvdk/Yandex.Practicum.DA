@@ -14,7 +14,7 @@
 
 **`Nbviewer:`** 
 
-[![nbviewer](https://img.shields.io/badge/VIEW-nbviewer-orange)](https://nbviewer.org/github/niksmns/data_analyst_yandex_practicum/blob/main/final_projects/ab_test/5e31a726-9723-4a87-b42e-5d2f8291020d.ipynb)
+[![nbviewer](https://img.shields.io/badge/VIEW-nbviewer-orange)](https://nbviewer.org/github/prvdk/Yandex.Practicum.DA/blob/main/13_final_project/A_B_test/Проект%20по%20АB%20тестированию.ipynb)
 
 **`Предоставленные данные:`**
 
