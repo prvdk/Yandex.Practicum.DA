@@ -8,7 +8,7 @@
 
 **`Nbviewer:`** 
 
-[![nbviewer](https://nbviewer.org/github/niksmns/data_analyst_yandex_practicum/blob/main/final_projects/cosmobrother/8671d3bf-143f-48e9-b84f-c23639b8d119.ipynb)
+[![nbviewer](https://img.shields.io/badge/VIEW-nbviewer-orange)](https://nbviewer.org/github/niksmns/data_analyst_yandex_practicum/blob/main/final_projects/sql/analysis_sql.ipynb)
 
 **`Предоставленные данные:`**
 
